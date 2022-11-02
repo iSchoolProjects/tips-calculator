@@ -1,0 +1,13 @@
+.main {
+  background-color: #abcfd4;
+  height: 100vh;
+  width: 100%;
+  
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  padding-top: 10rem;
+}
+
+

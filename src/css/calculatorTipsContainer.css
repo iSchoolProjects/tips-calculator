@@ -1,0 +1,11 @@
+.calculator-tips-container{
+    display: flex;
+    background-color: #fff;
+    width: 1000px;
+    margin: 5rem auto;
+    border-radius: 30px;
+    border: none;
+    
+}
+
+
