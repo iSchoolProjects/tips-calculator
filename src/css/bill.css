@@ -1,0 +1,14 @@
+.bill-container{
+    display:flex;
+    flex-direction: column;
+    
+}
+.number-of-people input, .bill-container input {
+    width: 93%;
+}
+.bill-icon {
+    padding-left: 25px;
+    background: url('../images/icon-dollar.svg') no-repeat left;
+    background-size: 14px;
+    background-color: #f3f9fb;
+  }

@@ -1,0 +1,57 @@
+.tip-container{
+    padding: 2rem;
+    color: #00474c;
+    font-weight: bold;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.buttons-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    height: 100px;
+    
+    
+}
+.buttons-container button{
+    height: 40px;
+    width: 120px;
+    background-color:#00474c;
+    border: none;
+    color:#d0d0d0;
+    font-size: 18px;
+    font-weight: bold;
+}
+input[placeholder]{
+    text-align:right;
+    font-size: 18px;
+    font-weight: bold;
+    color: #00474c;
+   
+}
+.custom-tip[placeholder]{
+    text-align:center;
+    color:#00474c;
+    font-weight: bold;
+    
+
+}
+
+input{
+    border:none;
+    height: 40px;
+    width: 100%;
+}
+.custom-tip{
+    width: 116px;
+}
+.people-icon{
+  padding-left: 25px;
+  background: url('../images/icon-person.svg') no-repeat left;
+  background-size: 14px;
+  background-color: #f3f9fb;
+}
+
